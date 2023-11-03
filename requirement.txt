@@ -1,0 +1,4 @@
+# Required libraries and their versions
+langchain==1.0.0
+sqlalchemy==1.4.22
+openai==0.27.0

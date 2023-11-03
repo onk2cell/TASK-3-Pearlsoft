@@ -15,9 +15,7 @@ engine = sqlalchemy.create_engine(db_url, pool_recycle=3600)
 here i have used mssql 
 
 # 
-# Project Name
 
-Brief project description and its purpose.
 
 ## Table of Contents
 
